@@ -32,3 +32,13 @@ The dataset contains only four sample matches. It is not sufficient to establish
 - Analyze a larger set of real match statistics.
 - Compare statistics with match outcomes.
 - Add more visualizations and filters.
+## Testing
+
+- Checked that the notebook runs from top to bottom.
+- Verified the first-serve percentage calculations.
+- Checked that the charts display the expected match comparisons.
+- Used sample data to test the analysis.
+
+## Current Status
+
+Completed beginner project. Future work could include analyzing real match statistics and adding more detailed performance metrics.
